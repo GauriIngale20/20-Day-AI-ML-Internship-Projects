@@ -25,9 +25,9 @@ dataset = st.selectbox(
 )
 
 if dataset == "Students Dataset":
-    file_path = Path("data/students.csv")
+    file_path = Path(__file__).resolve().parent / "data" / "students.csv"
 else:
-    file_path = Path("data/employees.csv")
+    file_path = Path(__file__).resolve().parent / "data" / "employees.csv"
 
 if st.button("Count Sample Dataset Rows"):
     try:
