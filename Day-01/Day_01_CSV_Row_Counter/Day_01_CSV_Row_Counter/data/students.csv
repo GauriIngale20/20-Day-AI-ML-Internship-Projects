@@ -1,0 +1,151 @@
+StudentID,Name,Age,Branch,Year,City,Marks
+2001,Aarav Patil,23,Computer Science,First,Pune,56
+2002,Priya Deshmukh,21,Information Technology,Second,Mumbai,67
+2003,Rahul Kulkarni,19,Electronics,Third,Nagpur,78
+2004,Neha Jadhav,24,Mechanical,Final,Nashik,89
+2005,Amit Joshi,22,Civil,First,Amravati,100
+2006,Sneha More,20,Computer Science,Second,Aurangabad,55
+2007,Rohan Pawar,18,Information Technology,Third,Nanded,66
+2008,Ananya Singh,23,Electronics,Final,Kolhapur,77
+2009,Karan Khan,21,Mechanical,First,Pune,88
+2010,Pooja Sharma,19,Civil,Second,Mumbai,99
+2011,Aditya Patil,24,Computer Science,Third,Nagpur,54
+2012,Isha Deshmukh,22,Information Technology,Final,Nashik,65
+2013,Sahil Kulkarni,20,Electronics,First,Amravati,76
+2014,Kavya Jadhav,18,Mechanical,Second,Aurangabad,87
+2015,Vivek Joshi,23,Civil,Third,Nanded,98
+2016,Meera More,21,Computer Science,Final,Kolhapur,53
+2017,Arjun Pawar,19,Information Technology,First,Pune,64
+2018,Riya Singh,24,Electronics,Second,Mumbai,75
+2019,Nikhil Khan,22,Mechanical,Third,Nagpur,86
+2020,Sana Sharma,20,Civil,Final,Nashik,97
+2021,Aarav Deshmukh,18,Computer Science,First,Amravati,52
+2022,Priya Kulkarni,23,Information Technology,Second,Aurangabad,63
+2023,Rahul Jadhav,21,Electronics,Third,Nanded,74
+2024,Neha Joshi,19,Mechanical,Final,Kolhapur,85
+2025,Amit More,24,Civil,First,Pune,96
+2026,Sneha Pawar,22,Computer Science,Second,Mumbai,51
+2027,Rohan Singh,20,Information Technology,Third,Nagpur,62
+2028,Ananya Khan,18,Electronics,Final,Nashik,73
+2029,Karan Sharma,23,Mechanical,First,Amravati,84
+2030,Pooja Patil,21,Civil,Second,Aurangabad,95
+2031,Aditya Deshmukh,19,Computer Science,Third,Nanded,50
+2032,Isha Kulkarni,24,Information Technology,Final,Kolhapur,61
+2033,Sahil Jadhav,22,Electronics,First,Pune,72
+2034,Kavya Joshi,20,Mechanical,Second,Mumbai,83
+2035,Vivek More,18,Civil,Third,Nagpur,94
+2036,Meera Pawar,23,Computer Science,Final,Nashik,49
+2037,Arjun Singh,21,Information Technology,First,Amravati,60
+2038,Riya Khan,19,Electronics,Second,Aurangabad,71
+2039,Nikhil Sharma,24,Mechanical,Third,Nanded,82
+2040,Sana Patil,22,Civil,Final,Kolhapur,93
+2041,Aarav Kulkarni,20,Computer Science,First,Pune,48
+2042,Priya Jadhav,18,Information Technology,Second,Mumbai,59
+2043,Rahul Joshi,23,Electronics,Third,Nagpur,70
+2044,Neha More,21,Mechanical,Final,Nashik,81
+2045,Amit Pawar,19,Civil,First,Amravati,92
+2046,Sneha Singh,24,Computer Science,Second,Aurangabad,47
+2047,Rohan Khan,22,Information Technology,Third,Nanded,58
+2048,Ananya Sharma,20,Electronics,Final,Kolhapur,69
+2049,Karan Patil,18,Mechanical,First,Pune,80
+2050,Pooja Deshmukh,23,Civil,Second,Mumbai,91
+2051,Aditya Kulkarni,21,Computer Science,Third,Nagpur,46
+2052,Isha Jadhav,19,Information Technology,Final,Nashik,57
+2053,Sahil Joshi,24,Electronics,First,Amravati,68
+2054,Kavya More,22,Mechanical,Second,Aurangabad,79
+2055,Vivek Pawar,20,Civil,Third,Nanded,90
+2056,Meera Singh,18,Computer Science,Final,Kolhapur,45
+2057,Arjun Khan,23,Information Technology,First,Pune,56
+2058,Riya Sharma,21,Electronics,Second,Mumbai,67
+2059,Nikhil Patil,19,Mechanical,Third,Nagpur,78
+2060,Sana Deshmukh,24,Civil,Final,Nashik,89
+2061,Aarav Jadhav,22,Computer Science,First,Amravati,100
+2062,Priya Joshi,20,Information Technology,Second,Aurangabad,55
+2063,Rahul More,18,Electronics,Third,Nanded,66
+2064,Neha Pawar,23,Mechanical,Final,Kolhapur,77
+2065,Amit Singh,21,Civil,First,Pune,88
+2066,Sneha Khan,19,Computer Science,Second,Mumbai,99
+2067,Rohan Sharma,24,Information Technology,Third,Nagpur,54
+2068,Ananya Patil,22,Electronics,Final,Nashik,65
+2069,Karan Deshmukh,20,Mechanical,First,Amravati,76
+2070,Pooja Kulkarni,18,Civil,Second,Aurangabad,87
+2071,Aditya Jadhav,23,Computer Science,Third,Nanded,98
+2072,Isha Joshi,21,Information Technology,Final,Kolhapur,53
+2073,Sahil More,19,Electronics,First,Pune,64
+2074,Kavya Pawar,24,Mechanical,Second,Mumbai,75
+2075,Vivek Singh,22,Civil,Third,Nagpur,86
+2076,Meera Khan,20,Computer Science,Final,Nashik,97
+2077,Arjun Sharma,18,Information Technology,First,Amravati,52
+2078,Riya Patil,23,Electronics,Second,Aurangabad,63
+2079,Nikhil Deshmukh,21,Mechanical,Third,Nanded,74
+2080,Sana Kulkarni,19,Civil,Final,Kolhapur,85
+2081,Aarav Joshi,24,Computer Science,First,Pune,96
+2082,Priya More,22,Information Technology,Second,Mumbai,51
+2083,Rahul Pawar,20,Electronics,Third,Nagpur,62
+2084,Neha Singh,18,Mechanical,Final,Nashik,73
+2085,Amit Khan,23,Civil,First,Amravati,84
+2086,Sneha Sharma,21,Computer Science,Second,Aurangabad,95
+2087,Rohan Patil,19,Information Technology,Third,Nanded,50
+2088,Ananya Deshmukh,24,Electronics,Final,Kolhapur,61
+2089,Karan Kulkarni,22,Mechanical,First,Pune,72
+2090,Pooja Jadhav,20,Civil,Second,Mumbai,83
+2091,Aditya Joshi,18,Computer Science,Third,Nagpur,94
+2092,Isha More,23,Information Technology,Final,Nashik,49
+2093,Sahil Pawar,21,Electronics,First,Amravati,60
+2094,Kavya Singh,19,Mechanical,Second,Aurangabad,71
+2095,Vivek Khan,24,Civil,Third,Nanded,82
+2096,Meera Sharma,22,Computer Science,Final,Kolhapur,93
+2097,Arjun Patil,20,Information Technology,First,Pune,48
+2098,Riya Deshmukh,18,Electronics,Second,Mumbai,59
+2099,Nikhil Kulkarni,23,Mechanical,Third,Nagpur,70
+2100,Sana Jadhav,21,Civil,Final,Nashik,81
+2101,Aarav More,19,Computer Science,First,Amravati,92
+2102,Priya Pawar,24,Information Technology,Second,Aurangabad,47
+2103,Rahul Singh,22,Electronics,Third,Nanded,58
+2104,Neha Khan,20,Mechanical,Final,Kolhapur,69
+2105,Amit Sharma,18,Civil,First,Pune,80
+2106,Sneha Patil,23,Computer Science,Second,Mumbai,91
+2107,Rohan Deshmukh,21,Information Technology,Third,Nagpur,46
+2108,Ananya Kulkarni,19,Electronics,Final,Nashik,57
+2109,Karan Jadhav,24,Mechanical,First,Amravati,68
+2110,Pooja Joshi,22,Civil,Second,Aurangabad,79
+2111,Aditya More,20,Computer Science,Third,Nanded,90
+2112,Isha Pawar,18,Information Technology,Final,Kolhapur,45
+2113,Sahil Singh,23,Electronics,First,Pune,56
+2114,Kavya Khan,21,Mechanical,Second,Mumbai,67
+2115,Vivek Sharma,19,Civil,Third,Nagpur,78
+2116,Meera Patil,24,Computer Science,Final,Nashik,89
+2117,Arjun Deshmukh,22,Information Technology,First,Amravati,100
+2118,Riya Kulkarni,20,Electronics,Second,Aurangabad,55
+2119,Nikhil Jadhav,18,Mechanical,Third,Nanded,66
+2120,Sana Joshi,23,Civil,Final,Kolhapur,77
+2121,Aarav Pawar,21,Computer Science,First,Pune,88
+2122,Priya Singh,19,Information Technology,Second,Mumbai,99
+2123,Rahul Khan,24,Electronics,Third,Nagpur,54
+2124,Neha Sharma,22,Mechanical,Final,Nashik,65
+2125,Amit Patil,20,Civil,First,Amravati,76
+2126,Sneha Deshmukh,18,Computer Science,Second,Aurangabad,87
+2127,Rohan Kulkarni,23,Information Technology,Third,Nanded,98
+2128,Ananya Jadhav,21,Electronics,Final,Kolhapur,53
+2129,Karan Joshi,19,Mechanical,First,Pune,64
+2130,Pooja More,24,Civil,Second,Mumbai,75
+2131,Aditya Pawar,22,Computer Science,Third,Nagpur,86
+2132,Isha Singh,20,Information Technology,Final,Nashik,97
+2133,Sahil Khan,18,Electronics,First,Amravati,52
+2134,Kavya Sharma,23,Mechanical,Second,Aurangabad,63
+2135,Vivek Patil,21,Civil,Third,Nanded,74
+2136,Meera Deshmukh,19,Computer Science,Final,Kolhapur,85
+2137,Arjun Kulkarni,24,Information Technology,First,Pune,96
+2138,Riya Jadhav,22,Electronics,Second,Mumbai,51
+2139,Nikhil Joshi,20,Mechanical,Third,Nagpur,62
+2140,Sana More,18,Civil,Final,Nashik,73
+2141,Aarav Singh,23,Computer Science,First,Amravati,84
+2142,Priya Khan,21,Information Technology,Second,Aurangabad,95
+2143,Rahul Sharma,19,Electronics,Third,Nanded,50
+2144,Neha Patil,24,Mechanical,Final,Kolhapur,61
+2145,Amit Deshmukh,22,Civil,First,Pune,72
+2146,Sneha Kulkarni,20,Computer Science,Second,Mumbai,83
+2147,Rohan Jadhav,18,Information Technology,Third,Nagpur,94
+2148,Ananya Joshi,23,Electronics,Final,Nashik,49
+2149,Karan More,21,Mechanical,First,Amravati,60
+2150,Pooja Pawar,19,Civil,Second,Aurangabad,71
