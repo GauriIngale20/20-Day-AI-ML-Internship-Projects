@@ -1,0 +1,113 @@
+PassengerId,Original_Index,Model,Actual,Predicted,Error_Type,Sex,Pclass,Age,Fare
+554,553,Logistic Regression,1,0,False Negative,male,3,22.0,7.225
+560,559,Logistic Regression,1,0,False Negative,female,3,36.0,17.4
+280,279,Logistic Regression,1,0,False Negative,female,3,35.0,20.25
+713,712,Logistic Regression,1,0,False Negative,male,1,48.0,52.0
+456,455,Logistic Regression,1,0,False Negative,male,3,29.0,7.8958
+66,65,Logistic Regression,1,0,False Negative,male,3,,15.2458
+490,489,Logistic Regression,1,0,False Negative,male,3,9.0,15.9
+870,869,Logistic Regression,1,0,False Negative,male,3,4.0,11.1333
+166,165,Logistic Regression,1,0,False Negative,male,3,9.0,20.525
+298,297,Logistic Regression,0,1,False Positive,female,1,2.0,151.55
+565,564,Logistic Regression,0,1,False Positive,female,3,,8.05
+503,502,Logistic Regression,0,1,False Positive,female,3,,7.6292
+18,17,Logistic Regression,1,0,False Negative,male,2,,13.0
+702,701,Logistic Regression,1,0,False Negative,male,1,35.0,26.2875
+448,447,Logistic Regression,1,0,False Negative,male,1,34.0,26.55
+579,578,Logistic Regression,0,1,False Positive,female,3,,14.4583
+691,690,Logistic Regression,1,0,False Negative,male,1,31.0,57.0
+39,38,Logistic Regression,0,1,False Positive,female,3,18.0,18.0
+594,593,Logistic Regression,0,1,False Positive,female,3,,7.75
+635,634,Logistic Regression,0,1,False Positive,female,3,9.0,27.9
+502,501,Logistic Regression,0,1,False Positive,female,3,21.0,7.75
+453,452,Logistic Regression,0,1,False Positive,male,1,30.0,27.75
+56,55,Logistic Regression,1,0,False Negative,male,1,,35.5
+571,570,Logistic Regression,1,0,False Negative,male,2,62.0,10.5
+272,271,Logistic Regression,1,0,False Negative,male,3,25.0,0.0
+24,23,Logistic Regression,1,0,False Negative,male,1,28.0,35.5
+147,146,Logistic Regression,1,0,False Negative,male,3,27.0,7.7958
+608,607,Logistic Regression,1,0,False Negative,male,1,27.0,30.5
+550,549,Logistic Regression,1,0,False Negative,male,2,8.0,36.75
+445,444,Logistic Regression,1,0,False Negative,male,3,,8.1125
+588,587,Logistic Regression,1,0,False Negative,male,1,60.0,79.2
+805,804,Logistic Regression,1,0,False Negative,male,3,27.0,6.975
+294,293,Logistic Regression,0,1,False Positive,female,3,24.0,8.85
+200,199,Logistic Regression,0,1,False Positive,female,2,24.0,13.0
+296,295,Logistic Regression,0,1,False Positive,male,1,,27.7208
+554,553,Balanced Logistic Regression,1,0,False Negative,male,3,22.0,7.225
+28,27,Balanced Logistic Regression,0,1,False Positive,male,1,19.0,263.0
+713,712,Balanced Logistic Regression,1,0,False Negative,male,1,48.0,52.0
+456,455,Balanced Logistic Regression,1,0,False Negative,male,3,29.0,7.8958
+66,65,Balanced Logistic Regression,1,0,False Negative,male,3,,15.2458
+490,489,Balanced Logistic Regression,1,0,False Negative,male,3,9.0,15.9
+870,869,Balanced Logistic Regression,1,0,False Negative,male,3,4.0,11.1333
+166,165,Balanced Logistic Regression,1,0,False Negative,male,3,9.0,20.525
+298,297,Balanced Logistic Regression,0,1,False Positive,female,1,2.0,151.55
+41,40,Balanced Logistic Regression,0,1,False Positive,female,3,40.0,9.475
+565,564,Balanced Logistic Regression,0,1,False Positive,female,3,,8.05
+503,502,Balanced Logistic Regression,0,1,False Positive,female,3,,7.6292
+18,17,Balanced Logistic Regression,1,0,False Negative,male,2,,13.0
+579,578,Balanced Logistic Regression,0,1,False Positive,female,3,,14.4583
+39,38,Balanced Logistic Regression,0,1,False Positive,female,3,18.0,18.0
+594,593,Balanced Logistic Regression,0,1,False Positive,female,3,,7.75
+635,634,Balanced Logistic Regression,0,1,False Positive,female,3,9.0,27.9
+502,501,Balanced Logistic Regression,0,1,False Positive,female,3,21.0,7.75
+453,452,Balanced Logistic Regression,0,1,False Positive,male,1,30.0,27.75
+352,351,Balanced Logistic Regression,0,1,False Positive,male,1,,35.0
+571,570,Balanced Logistic Regression,1,0,False Negative,male,2,62.0,10.5
+272,271,Balanced Logistic Regression,1,0,False Negative,male,3,25.0,0.0
+246,245,Balanced Logistic Regression,0,1,False Positive,male,1,44.0,90.0
+147,146,Balanced Logistic Regression,1,0,False Negative,male,3,27.0,7.7958
+542,541,Balanced Logistic Regression,0,1,False Positive,female,3,9.0,31.275
+337,336,Balanced Logistic Regression,0,1,False Positive,male,1,29.0,66.6
+800,799,Balanced Logistic Regression,0,1,False Positive,female,3,30.0,24.15
+550,549,Balanced Logistic Regression,1,0,False Negative,male,2,8.0,36.75
+445,444,Balanced Logistic Regression,1,0,False Negative,male,3,,8.1125
+672,671,Balanced Logistic Regression,0,1,False Positive,male,1,31.0,52.0
+588,587,Balanced Logistic Regression,1,0,False Negative,male,1,60.0,79.2
+805,804,Balanced Logistic Regression,1,0,False Negative,male,3,27.0,6.975
+294,293,Balanced Logistic Regression,0,1,False Positive,female,3,24.0,8.85
+200,199,Balanced Logistic Regression,0,1,False Positive,female,2,24.0,13.0
+296,295,Balanced Logistic Regression,0,1,False Positive,male,1,,27.7208
+554,553,Decision Tree,1,0,False Negative,male,3,22.0,7.225
+560,559,Decision Tree,1,0,False Negative,female,3,36.0,17.4
+537,536,Decision Tree,0,1,False Positive,male,1,45.0,26.55
+217,216,Decision Tree,1,0,False Negative,female,3,27.0,7.925
+280,279,Decision Tree,1,0,False Negative,female,3,35.0,20.25
+713,712,Decision Tree,1,0,False Negative,male,1,48.0,52.0
+456,455,Decision Tree,1,0,False Negative,male,3,29.0,7.8958
+66,65,Decision Tree,1,0,False Negative,male,3,,15.2458
+490,489,Decision Tree,1,0,False Negative,male,3,9.0,15.9
+870,869,Decision Tree,1,0,False Negative,male,3,4.0,11.1333
+166,165,Decision Tree,1,0,False Negative,male,3,9.0,20.525
+298,297,Decision Tree,0,1,False Positive,female,1,2.0,151.55
+503,502,Decision Tree,0,1,False Positive,female,3,,7.6292
+18,17,Decision Tree,1,0,False Negative,male,2,,13.0
+680,679,Decision Tree,1,0,False Negative,male,1,36.0,512.3292
+107,106,Decision Tree,1,0,False Negative,female,3,21.0,7.65
+579,578,Decision Tree,0,1,False Positive,female,3,,14.4583
+691,690,Decision Tree,1,0,False Negative,male,1,31.0,57.0
+594,593,Decision Tree,0,1,False Positive,female,3,,7.75
+502,501,Decision Tree,0,1,False Positive,female,3,21.0,7.75
+432,431,Decision Tree,1,0,False Negative,female,3,,16.1
+453,452,Decision Tree,0,1,False Positive,male,1,30.0,27.75
+56,55,Decision Tree,1,0,False Negative,male,1,,35.5
+571,570,Decision Tree,1,0,False Negative,male,2,62.0,10.5
+272,271,Decision Tree,1,0,False Negative,male,3,25.0,0.0
+253,252,Decision Tree,0,1,False Positive,male,1,62.0,26.55
+24,23,Decision Tree,1,0,False Negative,male,1,28.0,35.5
+147,146,Decision Tree,1,0,False Negative,male,3,27.0,7.7958
+556,555,Decision Tree,0,1,False Positive,male,1,62.0,26.55
+827,826,Decision Tree,0,1,False Positive,male,3,,56.4958
+550,549,Decision Tree,1,0,False Negative,male,2,8.0,36.75
+445,444,Decision Tree,1,0,False Negative,male,3,,8.1125
+803,802,Decision Tree,1,0,False Negative,male,1,11.0,120.0
+588,587,Decision Tree,1,0,False Negative,male,1,60.0,79.2
+805,804,Decision Tree,1,0,False Negative,male,3,27.0,6.975
+493,492,Decision Tree,0,1,False Positive,male,1,55.0,30.5
+824,823,Decision Tree,1,0,False Negative,female,3,27.0,12.475
+12,11,Decision Tree,1,0,False Negative,female,1,58.0,26.55
+485,484,Decision Tree,1,0,False Negative,male,1,25.0,91.0792
+200,199,Decision Tree,0,1,False Positive,female,2,24.0,13.0
+143,142,Decision Tree,1,0,False Negative,female,3,24.0,15.85
+296,295,Decision Tree,0,1,False Positive,male,1,,27.7208
