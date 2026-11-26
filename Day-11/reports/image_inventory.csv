@@ -1,0 +1,9 @@
+filename,split,width,height,channels,format,file_size_kb,annotation_available,object_count
+000000000009.jpg,train,640,480,3,JPEG,44.02,True,8
+000000000025.jpg,train,640,426,3,JPEG,63.45,True,2
+000000000030.jpg,train,640,428,3,JPEG,21.81,True,2
+000000000034.jpg,train,640,425,3,JPEG,70.9,True,1
+000000000036.jpg,validation,481,640,3,JPEG,48.11,True,2
+000000000042.jpg,validation,640,478,3,JPEG,41.27,True,1
+000000000049.jpg,validation,381,500,3,JPEG,29.59,True,9
+000000000061.jpg,validation,640,488,3,JPEG,97.21,True,5
