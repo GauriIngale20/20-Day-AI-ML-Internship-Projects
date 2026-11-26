@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+
+# Ignore temporary files
+.DS_Store
+Thumbs.db
+
+# Ignore large downloaded model weights
+# models/yolov8n.pt
